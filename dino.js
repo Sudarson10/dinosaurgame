@@ -1,6 +1,5 @@
 var dino = document.getElementById("dino");
 var bush = document.getElementById("bush");
-var game = document.querySelector(".game");
 var cloud1 = document.getElementById("cloud1");
 var cloud2 = document.getElementById("cloud2");
 var count = 0;
